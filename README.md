@@ -1,9 +1,8 @@
 # RetailLens — Dashboard de Inteligencia Comercial
 
 Aplicación de **visualización de datos** (Avance 3) sobre el dataset
-`retail_store_sales` (11.971 transacciones, 2022–2025). Autores: Edwin Quiñonez · Daniel Pérez.
+`retail_store_sales` (11.971 transacciones, 2022–2025). Autores: Edwin Quiñonez 
 
-## Para desplegar solo necesitas DOS archivos
 
 ```
 app.py            ← toda la app + el dataset incrustado dentro
